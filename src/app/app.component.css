@@ -1,0 +1,89 @@
+#container
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+#header
+{
+  height: 120px;
+  background-color: rgb(109, 104, 104);
+  border-radius: 10px;
+  font-size: 40px;
+  margin-top: 35px;
+}
+#contactmail
+{
+  float: left;
+  margin-top: -60px;
+  margin-left: 540px;
+  color:rgb(215, 219, 211);
+}
+#contactphone
+{
+  float: left;
+  margin-top: -22px;
+  margin-left: 540px;
+  color: rgb(215, 219, 211);
+}
+#contactfb
+{
+  float: left;
+  margin-top: 10px;
+  margin-left: 540px;
+  color: rgb(215, 219, 211);
+}
+#menu
+{
+  background-color: rgb(109, 104, 104);
+  height: 50px;
+  margin-top: 25px;
+  border-radius: 10px;
+
+}
+.menu1
+{
+  font-size: 20px;
+  height: 26px;
+  float: left;
+  margin-left: 75px;
+  margin-top: 13px;
+  border-bottom: dotted 2px rgb(141, 192, 99);
+}
+.menu1:hover
+{
+  cursor: pointer;
+  color: rgb(141, 192, 99);
+  font-size: 20px;
+  float: left;
+  margin-left: 75px;
+  margin-top: 13px;
+  border-bottom: dotted 2px rgb(0, 0, 0);
+}
+.iconbar
+{
+  float: left;
+  margin-top: -2px;
+}
+#content
+{
+  width: 100%;
+  height: 650px;
+  background-color:rgb(109, 104, 104);
+  border-radius: 10px;
+  margin-top: 25px;
+}
+#footer
+{
+  width: 100%;
+  height: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color:rgb(109, 104, 104);
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  padding-top: 20px;
+  text-align: center;
+}
+

@@ -1,3 +1,4 @@
+import { StronaglownaComponent } from './stronaglowna/stronaglowna/stronaglowna.component';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 

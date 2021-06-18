@@ -1,0 +1,88 @@
+#header
+{
+  font-size: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+  color: whitesmoke;
+  height: 37px;
+  width: 125px;
+  border-bottom: solid 2px rgb(141, 192, 99);
+}
+#back
+{
+  background-image: url('C:\Users\szymk\ProjektStrony\StronaBudowlana\src\app\img\buttonback.jpg');
+  margin-top: 30px;
+  float: left;
+  width: 75px;
+  height: 500px;
+  margin-left: 75px;
+  border: none;
+}
+#back:hover
+{
+  cursor: pointer;
+}
+#next
+{
+  float: right;
+  margin-right: 75px;
+  background-image: url('C:\Users\szymk\ProjektStrony\StronaBudowlana\src\app\img\buttonnext.jpg');
+  margin-top: 30px;
+  width: 75px;
+  height: 500px;
+  border: none;
+}
+#next:hover
+{
+  cursor: pointer;
+}
+.zdjecie
+{
+  margin-top: 30px;
+  margin-left: 100px;
+  float: left;
+  width: 500px;
+  height: 500px;
+}
+#foto1
+{
+  background-image: url('C:\Users\szymk\ProjektStrony\StronaBudowlana\src\app\img\foto1.jpg');
+}
+#foto2
+{
+  background-image: url('C:\Users\szymk\ProjektStrony\StronaBudowlana\src\app\img\foto2.jpg');
+}
+#foto3
+{
+  background-image: url('C:\Users\szymk\ProjektStrony\StronaBudowlana\src\app\img\foto3.jpg');
+}
+#foto4
+{
+  background-image: url('C:\Users\szymk\ProjektStrony\StronaBudowlana\src\app\img\foto4.jpg');
+}
+#foto5
+{
+  background-image: url('C:\Users\szymk\ProjektStrony\StronaBudowlana\src\app\img\foto5.jpg');
+}
+#foto6
+{
+  background-image: url('C:\Users\szymk\ProjektStrony\StronaBudowlana\src\app\img\foto6.jpg');
+}
+#foto7
+{
+  background-image: url('C:\Users\szymk\ProjektStrony\StronaBudowlana\src\app\img\foto7.jpg');
+}
+#foto8
+{
+  background-image: url('C:\Users\szymk\ProjektStrony\StronaBudowlana\src\app\img\foto8.jpg');
+}
+#foto9
+{
+  background-image: url('C:\Users\szymk\ProjektStrony\StronaBudowlana\src\app\img\foto9.jpg');
+}
+#foto10
+{
+  background-image: url('C:\Users\szymk\ProjektStrony\StronaBudowlana\src\app\img\foto10.jpg');
+}
+

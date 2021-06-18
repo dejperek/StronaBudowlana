@@ -1,0 +1,63 @@
+#header
+{
+  float: left;
+  font-size: 40px;
+  margin-top: 40px;
+  margin-left: 60px;
+  color: whitesmoke;
+  height: 37px;
+  border-bottom: solid 2px rgb(141, 192, 99);
+}
+.tabela
+{
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 25px;
+  border: 2px solid rgb(141, 192, 99);
+  color: black;
+}
+.tabela1
+{
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0px;
+  border: 2px solid rgb(141, 192, 99);
+  height: 70px;
+  color: black;
+
+}
+.metraz
+{
+  float: left;
+  margin-top: 20px;
+  width: 40px;
+  height: 30px;
+  border: none;
+}
+.btn
+{
+  float: left;
+  margin-top: 25px;
+  margin-left: 20px;
+}
+#table
+{
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.cena
+{
+  font-size: 25px;
+  float: left;
+  padding-top: 25px;
+  padding-left: 25px;
+}
+.cena2
+{
+  font-size: 25px;
+  float: left;
+  padding-top: 25px;
+  padding-left: 65px;
+}

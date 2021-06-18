@@ -1,0 +1,20 @@
+<div id = "header">Galeria</div>
+
+<button id = "back" (click) = "backimg()"><mat-icon style="font-size: 80px; margin-left: -60px ">arrow_back</mat-icon></button>
+
+<div [ngSwitch]="nrZdjecia">
+
+  <div *ngSwitchCase = "1" class = "zdjecie" id = "foto1"></div>
+  <div *ngSwitchCase = "2" class = "zdjecie" id = "foto2"></div>
+  <div *ngSwitchCase = "3" class = "zdjecie" id = "foto3"></div>
+  <div *ngSwitchCase = "4" class = "zdjecie" id = "foto4"></div>
+  <div *ngSwitchCase = "5" class = "zdjecie" id = "foto5"></div>
+  <div *ngSwitchCase = "6" class = "zdjecie" id = "foto6"></div>
+  <div *ngSwitchCase = "7" class = "zdjecie" id = "foto7"></div>
+  <div *ngSwitchCase = "8" class = "zdjecie" id = "foto8"></div>
+  <div *ngSwitchCase = "9" class = "zdjecie" id = "foto9"></div>
+  <div *ngSwitchCase = "10" class = "zdjecie" id = "foto10"></div>
+
+</div>
+
+<button id = "next" (click) = "nextimg()"><mat-icon style="font-size: 80px; margin-left: -50px ">arrow_forward</mat-icon></button>
